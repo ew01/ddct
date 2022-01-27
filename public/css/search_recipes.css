@@ -1,0 +1,18 @@
+.recipe_card{
+    border-color: black;
+    border-style: dashed;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.recipe_card .recipe_title{
+    font-family: var(--wp--preset--font-family--source-serif-pro);
+    font-size: var(--wp--preset--font-size--x-large);
+    font-weight: 300;
+    line-height: var(--wp--custom--typography--line-height--tiny);
+    display: block;
+}
+
+.recipe_meta {
+    display: block;
+}
