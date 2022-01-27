@@ -4,7 +4,7 @@ Diet Dr Code Test
 
 Usage:
 Install plugin to gain access to the recipe post type, and it's associated custom fields.
-Use the shortcode [recipe_search] to display the custom search page.
+Use the shortcode [recipe_search_page] to display the custom search page.
 
 
 ====================================================================
