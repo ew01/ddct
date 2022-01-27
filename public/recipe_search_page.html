@@ -1,7 +1,9 @@
-<form style="text-align: center">
+<form autocomplete="off" style="text-align: center">
     <label for="recipe_name">Recipe</label>
     <br />
-    <input type="text" name="recipe_name" id="recipe_name" />
+    <div class="autocomplete" style="width:300px;">
+        <input type="text" name="recipe_name" id="recipe_name" />
+    </div>
     <br />
     <button type="button" onclick="search_recipes(recipe_name)">
         Search

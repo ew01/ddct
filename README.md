@@ -16,6 +16,10 @@ This would be a better option than the first one if more than one custom post ty
 
 ## Change Log
 
+### Version 1.0.1
+
+* Added an auto complete to the search page
+* * While most of the auto complete comes from W3Schools(https://www.w3schools.com/howto/howto_js_autocomplete.asp) I added a simple function to dynamically inject recipe titles into the search terms array. The goal being that when new recipes are added, they are automatically added to the auto-complete options.
 ### Version 1.0.0
 
 * This is version one of my Diet Dr Code Test.

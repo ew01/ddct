@@ -4,13 +4,13 @@
  * Plugin URI:
  * Description:
  * Author: David Ellenburg
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author URI: http://www.ellenburgweb.com
  * License: GPL2
  **/
 
 
-define( 'ddct_version', '1.0.0' );
+define( 'ddct_version', '1.0.1' );
 define( 'installed_version', get_option( 'ddct_version' ) );
 
 if ( ! class_exists( 'ddct_plugin' ) ) {
