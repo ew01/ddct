@@ -8,8 +8,11 @@ Use the shortcode [recipe_search] to display the custom search page.
 
 
 ====================================================================
+
 Version 1.0.0
+
 ====================================================================
+
 -This is version one of my Diet Dr Code Test.
 -This is about 4 hours of work.
 -Custom post type of Recipes.
